@@ -1,0 +1,14 @@
+.map__img_container {
+  width: 100%;
+}
+
+.map__img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.map__form-control_floor {
+  width: 100%;
+  align-items: center;
+  background-color: rgb(128 128 128 / 28%);
+}
